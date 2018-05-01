@@ -1,0 +1,26 @@
+{
+  "name": "Electron",
+  "version": "1.0.0",
+  "description": "Get to know what's Electron about",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasdd/Electron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kasdd/Electron/issues"
+  },
+  "homepage": "https://github.com/kasdd/Electron#readme",
+  "dependencies": {
+    "npm": "^6.0.0"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
